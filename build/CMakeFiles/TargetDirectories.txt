@@ -1,0 +1,3 @@
+/home/csagin/Desktop/cpp_task/build/CMakeFiles/rebuild_cache.dir
+/home/csagin/Desktop/cpp_task/build/CMakeFiles/edit_cache.dir
+/home/csagin/Desktop/cpp_task/build/CMakeFiles/cpp_task.dir

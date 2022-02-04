@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/csagin/Desktop/cpp_task/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+sstream
+-
+iomanip
+-
+stdlib.h
+-
+
